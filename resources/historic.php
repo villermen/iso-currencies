@@ -230,6 +230,13 @@
     'minorUnit' => 0,
     'numericCode' => 200,
   ),
+  'CUC' => 
+  array (
+    'alphabeticCode' => 'CUC',
+    'currency' => 'Peso Convertible',
+    'minorUnit' => 0,
+    'numericCode' => 931,
+  ),
   'CYP' => 
   array (
     'alphabeticCode' => 'CYP',
@@ -922,6 +929,13 @@
     'currency' => 'Zimbabwe Dollar',
     'minorUnit' => 0,
     'numericCode' => 716,
+  ),
+  'ZWL' => 
+  array (
+    'alphabeticCode' => 'ZWL',
+    'currency' => 'Zimbabwe Dollar',
+    'minorUnit' => 0,
+    'numericCode' => 932,
   ),
   'ZWN' => 
   array (

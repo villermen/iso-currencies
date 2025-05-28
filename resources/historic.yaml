@@ -163,6 +163,11 @@ CSK:
     currency: Koruna
     minorUnit: 0
     numericCode: 200
+CUC:
+    alphabeticCode: CUC
+    currency: 'Peso Convertible'
+    minorUnit: 0
+    numericCode: 931
 CYP:
     alphabeticCode: CYP
     currency: 'Cyprus Pound'
@@ -658,6 +663,11 @@ ZWD:
     currency: 'Zimbabwe Dollar'
     minorUnit: 0
     numericCode: 716
+ZWL:
+    alphabeticCode: ZWL
+    currency: "Zimbabwe\_Dollar"
+    minorUnit: 0
+    numericCode: 932
 ZWN:
     alphabeticCode: ZWN
     currency: 'Zimbabwe Dollar (new)'

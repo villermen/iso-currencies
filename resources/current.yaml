@@ -18,11 +18,6 @@ AMD:
     currency: 'Armenian Dram'
     minorUnit: 2
     numericCode: 51
-ANG:
-    alphabeticCode: ANG
-    currency: 'Netherlands Antillean Guilder'
-    minorUnit: 2
-    numericCode: 532
 AOA:
     alphabeticCode: AOA
     currency: Kwanza
@@ -183,11 +178,6 @@ CRC:
     currency: 'Costa Rican Colon'
     minorUnit: 2
     numericCode: 188
-CUC:
-    alphabeticCode: CUC
-    currency: 'Peso Convertible'
-    minorUnit: 2
-    numericCode: 931
 CUP:
     alphabeticCode: CUP
     currency: 'Cuban Peso'
@@ -788,6 +778,11 @@ WST:
     currency: Tala
     minorUnit: 2
     numericCode: 882
+XAD:
+    alphabeticCode: XAD
+    currency: 'Arab Accounting Dinar'
+    minorUnit: 2
+    numericCode: 396
 XAF:
     alphabeticCode: XAF
     currency: 'CFA Franc BEAC'
@@ -828,6 +823,11 @@ XCD:
     currency: 'East Caribbean Dollar'
     minorUnit: 2
     numericCode: 951
+XCG:
+    alphabeticCode: XCG
+    currency: 'Caribbean Guilder'
+    minorUnit: 2
+    numericCode: 532
 XDR:
     alphabeticCode: XDR
     currency: 'SDR (Special Drawing Right)'
@@ -888,8 +888,8 @@ ZMW:
     currency: 'Zambian Kwacha'
     minorUnit: 2
     numericCode: 967
-ZWL:
-    alphabeticCode: ZWL
-    currency: 'Zimbabwe Dollar'
+ZWG:
+    alphabeticCode: ZWG
+    currency: 'Zimbabwe Gold'
     minorUnit: 2
-    numericCode: 932
+    numericCode: 924
